@@ -86,7 +86,8 @@ th {
 }
 
 #about-image {
-    width: 80%;
+    width: 60%;
     height: auto;
-    position: relative; 
+    margin-left: auto; 
+    margin-right: auto;
 }
