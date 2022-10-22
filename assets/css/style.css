@@ -30,6 +30,7 @@ main {
 nav {
     background-color: beige;
     padding: 10px;
+    width: 100%
 }
 
 nav ul {
@@ -90,4 +91,13 @@ th {
     height: auto;
     margin-left: auto; 
     margin-right: auto;
+}
+
+.service {
+    display: inline-block;
+    text-align: center;
+}
+
+#location {
+    text-align: left;
 }
